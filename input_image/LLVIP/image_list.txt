@@ -1,0 +1,4 @@
+# filename    focal_length
+010018.jpg		100
+010019.jpg		100
+010020.jpg		100
