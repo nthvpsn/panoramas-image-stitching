@@ -1,0 +1,6 @@
+# filename    focal_length
+3.jpg		870
+4.jpg		870
+5.jpg		870
+6.jpg		870
+7.jpg		870

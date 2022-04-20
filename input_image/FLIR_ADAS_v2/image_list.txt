@@ -1,0 +1,5 @@
+# filename    focal_length
+HAE3.jpg		870
+HAE4.jpg		870
+HAE5.jpg		870
+HAE6.jpg		870
